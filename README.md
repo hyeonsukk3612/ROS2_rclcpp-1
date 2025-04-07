@@ -57,3 +57,7 @@
 
  패키지소스코드를깃허브에업로드할것
 
+실제 코드 실행 영상입니다.
+
+https://www.youtube.com/watch?v=iJncwlF0ngE
+
